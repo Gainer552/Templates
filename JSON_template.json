@@ -1,0 +1,14 @@
+{
+  "string": "Strings go here.",
+  "integer": 42,
+  "float": 98.6,
+  "boolean1": true,
+  "boolean2": false,
+  "null": null,
+  "object": {
+    "nestedKey1": "nestedValue1",
+    "nestedKey2": 123
+  },
+  "arrayOfstrings": ["item1", "item2", "item3"],
+  "mixedArray": ["String goes here.", 101, true, null, {"nestedArrayObject": "value"}]
+}
